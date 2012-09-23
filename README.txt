@@ -2,6 +2,7 @@ HandTracker
 ===========
 Description: 
   Track objects (preferably hands) and moves mouse position accordingly. 
+  Currently verified to run only on Ubuntu.
 
 TODO:
   README:
